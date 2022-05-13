@@ -11,3 +11,7 @@ Sample repository based on JS, Mocha and Docker
 ## How to run tests in Docker container
 - docker run js-docker
 - docker run js-docker test --  -g "hooks"
+
+## How to run tests in Docker container (use public image)
+- docker run burazalinov/js-docker
+- docker run burazalinov/js-docker test --  -g "Array"
