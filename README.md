@@ -1,6 +1,8 @@
 # Test Automation Course | js-docker
 Sample repository based on JS, Mocha and Docker
 
+[![Run Javascript Tests](https://github.com/BurhanH/TestAutomationCourse-js-docker/actions/workflows/run-tests.yml/badge.svg)](https://github.com/BurhanH/TestAutomationCourse-js-docker/actions/workflows/run-tests.yml)
+
 ## How to run tests
 - npm test
 - npm test --  -g "My test"
